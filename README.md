@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 João Arthur</a></h1>
 <h3 align="center">An aspirant Back-end Developer from Brazil 👨🏻‍💻 🇧🇷</h3>
-
 <br>
 
 ## 🙋🏻‍♂️ About Me:
@@ -16,18 +15,17 @@ João Arthur</a></h1>
 - 📫 How to reach me **arthur1081@hotmail.com**
 - 📄 I’m currently open for a job opportunity, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 
 <h3>👨‍💻 Languages </h3>
 <span> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
 <h3>🧰 Frameworks </h3>
@@ -39,17 +37,17 @@ João Arthur</a></h1>
 
 <h3>🗄️ Databases </h3>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h3>💻 IDE/Editors </h3>
 <span>
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+</span>
 
 <h3> 🎛️ Operating System </h3>
 <span>
@@ -86,10 +84,4 @@ João Arthur</a></h1>
     <a href="https://www.linkedin.com/in/joao-arthur-britto/" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-</p>
-
-<br>
-
-<p align="center">
-  
 </p>
