@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="" target="blank">
 João Arthur</a></h1>
 <h3 align="center">An aspirant Back-end Developer from Brazil 👨🏻‍💻 🇧🇷</h3>
 <br>
@@ -13,7 +13,7 @@ João Arthur</a></h1>
 - 💬 Ask me about **Python**
 - 🎬 Love to watch movies and binge TV Shows
 - 📫 How to reach me **arthur1081@hotmail.com**
-- 📄 I’m currently open for a job opportunity, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 📄 I’m currently open for a job opportunity, this is [MY RESUME]().
 
 <br>
 
