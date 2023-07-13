@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
-João Arthur</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="">João Arthur</a></h1>
 <h3 align="center">An aspirant Back-end Developer from Brazil 👨🏻‍💻 🇧🇷</h3>
 <br>
 
@@ -7,13 +6,13 @@ João Arthur</a></h1>
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px style="margin-top: -40px"> </picture>
 
-- 📚 I’m currently graduating in Computer Engeneering at UNIFAN
+- 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN
 - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a **Back-end Developer**
 - 📖 I’m currently learning more about Django and APIs
 - 💬 Ask me about **Python**
 - 🎬 Love to watch movies and binge TV Shows
 - 📫 How to reach me **arthur1081@hotmail.com**
-<!-- 📄 I’m currently open for a job opportunity, this is [MY RESUME](). -->
+<!-- - 📄 I’m currently open for a job opportunity, this is [MY RESUME](). -->
 
 <br>
 
