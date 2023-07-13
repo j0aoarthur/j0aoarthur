@@ -13,7 +13,7 @@ João Arthur</a></h1>
 - 💬 Ask me about **Python**
 - 🎬 Love to watch movies and binge TV Shows
 - 📫 How to reach me **arthur1081@hotmail.com**
-- 📄 I’m currently open for a job opportunity, this is [MY RESUME]().
+<!-- 📄 I’m currently open for a job opportunity, this is [MY RESUME](). -->
 
 <br>
 
