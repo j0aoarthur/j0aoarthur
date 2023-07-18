@@ -11,7 +11,7 @@
 - 📖 I’m currently learning more about Django and APIs
 - 💬 Ask me about **Python**
 - 🎬 Love to watch movies and binge TV Shows
-- 📫 How to reach me **arthur1081@hotmail.com**
+- 📫 How to reach me **joaoabritto.dev@gmail.com**
 <!-- - 📄 I’m currently open for a job opportunity, this is [MY RESUME](). -->
 
 <br>
@@ -76,9 +76,6 @@
 <p align="center">
     <a href="https://instagram.com/j0aoarthur?igshid=OGQ5ZDc2ODk2ZA==" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
-    <a href="https://github.com/j0aoarthur" style="text-decoration: none; margin: 0px 15px;">
-        <img src="https://skillicons.dev/icons?i=github" />
     </a>
     <a href="https://www.linkedin.com/in/joao-arthur-britto/" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=linkedin" />
