@@ -9,7 +9,6 @@
 <p>
     - 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN <br>
     - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a <strong>Back-end Developer</strong> <br>
-    - 📖 I’m currently learning more about Django and APIs <br>
     - 💬 Ask me about <strong>Python</strong> <br>
     - 🎬 Love to watch movies and binge TV Shows <br>
     - 📫 How to reach me <strong>joaoabritto.dev@gmail.com</strong>
