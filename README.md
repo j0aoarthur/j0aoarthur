@@ -6,12 +6,15 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px style="margin-top: -40px"> </picture>
 
-- 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN
-- 👨🏻‍💻 I early graduated High-school to pursue my dream to become a **Back-end Developer**
-- 📖 I’m currently learning more about Django and APIs
-- 💬 Ask me about **Python**
-- 🎬 Love to watch movies and binge TV Shows
-- 📫 How to reach me **joaoabritto.dev@gmail.com**
+<p>
+    - 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN
+    - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a **Back-end Developer**
+    - 📖 I’m currently learning more about Django and APIs
+    - 💬 Ask me about **Python**
+    - 🎬 Love to watch movies and binge TV Shows
+    - 📫 How to reach me **joaoabritto.dev@gmail.com**
+</p>
+
 <!-- - 📄 I’m currently open for a job opportunity, this is [MY RESUME](). -->
 
 <br>
