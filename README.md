@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 30px;">, I'm <a href=""> João Arthur</a></h1>
+<h1 align="center">Hi, I'm João Arthur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 30px;"></h1>
 <h3 align="center">An aspirant Back-end Developer from Brazil 👨🏻‍💻 🇧🇷</h3>
 <br>
 
@@ -11,10 +11,10 @@
     - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a <strong>Back-end Developer</strong> <br>
     - 💬 Ask me about <strong>Python</strong> <br>
     - 🎬 Love to watch movies and binge TV Shows <br>
-    - 📫 How to reach me <strong>joaoabritto.dev@gmail.com</strong>
+    - 🤓 Currently taking a <strong>Java</strong> Course <br>
+    - 📄 I’m open for a job opportunity, reach me through here <strong>joaoabritto.dev@gmail.com</strong>.
 </p>
 
-<!-- - 📄 I’m currently open for a job opportunity, this is [MY RESUME](). -->
 
 <br>
 
