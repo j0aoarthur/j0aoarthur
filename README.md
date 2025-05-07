@@ -9,9 +9,8 @@
 <p>
     - 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN <br>
     - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a <strong>Back-end Developer</strong> <br>
-    - 💬 Ask me about <strong>Python</strong> <br>
+    - 💬 Ask me about <strong>Java</strong> <br>
     - 🎬 Love to watch movies and binge TV Shows <br>
-    - 🤓 Currently taking a <strong>Java</strong> Course <br>
     - 📄 I’m open for a job opportunity, reach me through here <strong>joaoabritto.dev@gmail.com</strong>.
 </p>
 
@@ -22,6 +21,7 @@
 
 <h3>👨‍💻 Languages </h3>
 <span> 
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,6 +31,7 @@
 
 <h3>🧰 Frameworks </h3>
 <span>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-%23575757.svg?style=for-the-badge&logo=flask&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
