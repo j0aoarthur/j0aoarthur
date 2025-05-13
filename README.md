@@ -8,6 +8,7 @@
 
 <p>
     - 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN <br>
+    - 📓 Check out my <a href="https://joaoarthur.com">Portifolio</a> <br>
     - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a <strong>Back-end Developer</strong> <br>
     - 💬 Ask me about <strong>Java</strong> <br>
     - 🎬 Love to watch movies and binge TV Shows <br>
