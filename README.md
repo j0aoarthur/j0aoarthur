@@ -1,89 +1,54 @@
 <h1 align="center">Hi, I'm João Arthur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 30px;"></h1>
-<h3 align="center">An aspirant Back-end Developer from Brazil 👨🏻‍💻 🇧🇷</h3>
-<br>
-
-## 🙋🏻‍♂️ About Me:
-
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px style="margin-top: -40px"> </picture>
-
-<p>
-    - 📚 I’m currently pursuing a B.Sc. in Computer Engineering at UNIFAN <br>
-    - 📓 Check out my <a href="https://joaoarthur.com">Portifolio</a> <br>
-    - 👨🏻‍💻 I early graduated High-school to pursue my dream to become a <strong>Back-end Developer</strong> <br>
-    - 💬 Ask me about <strong>Java</strong> <br>
-    - 🎬 Love to watch movies and binge TV Shows <br>
-    - 📄 I’m open for a job opportunity, reach me through here <strong>joaoabritto.dev@gmail.com</strong>.
-</p>
-
-
-<br>
-
-## 🛠 &nbsp;Tech Stack
-
-<h3>👨‍💻 Languages </h3>
-<span> 
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</span>
-
-<h3>🧰 Frameworks </h3>
-<span>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23575757.svg?style=for-the-badge&logo=flask&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
-
-<h3>🗄️ Databases </h3>
-<span>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
-
-<h3>💻 IDE/Editors </h3>
-<span>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-</span>
-
-<h3> 🎛️ Operating System </h3>
-<span>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
-
-<h3>💡 Other Tools and Technologies </h3>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/jinja-F4F4f4.svg?style=for-the-badge&logo=jinja&logoColor=black">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-</span>
-
-<br>
-
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect with me 🤝 </h2>
+<h3 align="center">Backend Developer | Computer Engineering Student 👨🏻‍💻 🇧🇷</h3>
 
 <p align="center">
-    <a href="https://instagram.com/j0aoarthur?igshid=OGQ5ZDc2ODk2ZA==" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=instagram"/>
+  <a href="https://joaoarthur.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/joao-arthur-britto/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:joaoabritto.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+## 🙋🏻‍♂️ About Me
+
+- 🎓 **Education:** Pursuing a B.Sc. in Computer Engineering at UNIFAN.
+- 💼 **Professional Experience:** 5 months as a **Junior Backend Developer** (PHP/Laravel), focus on automated testing (PHPUnit) and database optimization.
+- 🚀 **Featured Project:** Developed a full-stack system for the **AFADFAL NGO**, optimizing storage by 60% and performance by 25% on AWS.
+- 🌐 **Languages:** Portuguese (Native), **English (C1 Advanced)**.
+- 📓 **Check out my full work at [joaoarthur.com](https://joaoarthur.com)**
+
+---
+
+## 🛠 Tech Stack
+
+### 🖥 Backend & Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄 Databases & DevOps
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=icloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🤝 Connect with me
+<p align="left">
+    <a href="https://www.linkedin.com/in/joao-arthur-britto/">
+        <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/joao-arthur-britto/" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
